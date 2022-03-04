@@ -45,7 +45,7 @@
             <label for="descrole" class="form-label">Description</label>
             <input type="text" class="form-control" value="{{$roles->role_desc}}" name="descrole" required>
           </div>
-          <button type="button" class="btn btn-secondary">Cancel</button>
+          
           <a type="button" class="btn btn-danger" href="{{route('delete_role',$roles->id)}}">Delete</a>
           <button type="submit" class="btn btn-primary" >Save</button>
         </form>
