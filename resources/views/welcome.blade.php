@@ -61,7 +61,7 @@
       
   <div class="container">
         <br>
-        <h1>Dashboard</h1> 
+        <h1>Dashboard Expenses</h1> 
         <br>
   <table class="table table-striped table-bordered" style="width:100%">
 
